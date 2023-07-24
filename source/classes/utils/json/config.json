@@ -1,0 +1,33 @@
+{
+  "money": {
+    "name": "Emeralds",
+    "emoji": "<:emeralds:1130658038555090985>"
+  },
+  "text": {
+    "separator": "->"
+  },
+  "perms": {
+    "dev": {
+      "dev": "315254767716663296"
+    }
+  },
+  "emojis": {
+    "error": "❌",
+    "success": "✅",
+    "piece": "🧩",
+    "waiting": "<:temp:1119404769426018354>",
+    "question": "<:questionariel:1130658992398544986>"
+  },
+  "colors": {
+    "default": "#ffcedb",
+    "red": "#ed3232",
+    "green": "#32ed61",
+    "blue": "#73b0ff",
+    "invisible": "#303136"
+  },
+  "links": {
+    "guild": "https://discord.gg/S84b3E8Gg7",
+    "invite": "https://discord.com/api/oauth2/authorize?client_id=1118318998896005201&permissions=379968&scope=bot%20applications.commands",
+    "upvote": "https://top.gg/bot/1118318998896005201"
+  }
+}
